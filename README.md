@@ -8,20 +8,20 @@ Use the [STOMT widget](https://stomt.co/web) on your Kirby website
 
 
 
-- **$pagename** (string) | required 
+- **$pagename** (string) **| required** 
   Your pagename stomt.com/{pagename} 
-- **$widgetType** (string)  
-  Make sure to pick the right widget type from https://stomt.co/web | default: addTab
-- **$position** (string)  
-  Choose between top, left, right, bottom | default: right
-- **$label** (string)  
-  Choose a good call-to-action which will be displayed | default: "Quick Feedback"
-- **$colorText** (string)  
-  Pick a font color for your feedback button | default: #FFFFFF
-- **$colorBackground** (string)  
-  Pick a background color for your feedback button | default: #000000
-- **$colorHover** (string)  
-  Pick a hover color for your feedback button | default: #CCCCCC
+- **$widgetType** (string) **| default: addTab**
+  Make sure to pick the right widget type from https://stomt.co/web
+- **$position** (string) **| default: right**
+  Choose between top, left, right, bottom 
+- **$label** (string)  **| default: "Quick Feedback"**
+  Choose a good call-to-action which will be displayed
+- **$colorText** (string) **| default: #FFFFFF**
+  Pick a font color for your feedback button 
+- **$colorBackground** (string) **| default: #000000**
+  Pick a background color for your feedback button
+- **$colorHover** (string) **| default: #CCCCCC**
+  Pick a hover color for your feedback button
 
 ## Installation
 
