@@ -1,0 +1,12 @@
+{
+  "name": "stomt-kirby-extension",
+  "description": "A Kirby Extension for STOMT",
+  "author": "Philipp Zentner <https://github.com/philippzentner>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stomt/stomt-kirby-extension"
+  },
+  "version": "0.0.0",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
