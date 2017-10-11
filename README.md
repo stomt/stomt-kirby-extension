@@ -1,24 +1,27 @@
-# stomt-kirby-extension
-A STOMT plugin for the Kirby CMS
+# Collect feedback from your website via STOMT
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-# STOMT($pagename, $widgetType = 'addTab', $position = 'right', $label = 'Quick Feedback', $colorText = '#ffffff', $colorBackground ='#000000', $colorHover = '#ccc');
+Use the [STOMT widget](https://stomt.co/web) on your Kirby website
+
+# STOMT($pagename, $widgetType, $position, $label, $colorText, $colorBackground, $colorHover);
 
 
 
-- **$pagename** (string)  
+- **$pagename** (string) | required 
   Your pagename stomt.com/{pagename} 
 - **$widgetType** (string)  
-  Make sure to pick the right widget type from https://stomt.co/web | default: addTap
+  Make sure to pick the right widget type from https://stomt.co/web | default: addTab
 - **$position** (string)  
   Choose between top, left, right, bottom | default: right
 - **$label** (string)  
   Choose a good call-to-action which will be displayed | default: "Quick Feedback"
 - **$colorText** (string)  
-  Pick a font color for your feedback button | default: "Quick Feedback"
+  Pick a font color for your feedback button | default: #FFFFFF
 - **$colorBackground** (string)  
-  Pick a background color for your feedback button | default: "Quick Feedback"
+  Pick a background color for your feedback button | default: #000000
 - **$colorHover** (string)  
-  Pick a hover color for your feedback button | default: "Quick Feedback"
+  Pick a hover color for your feedback button | default: #CCCCCC
 
 ## Installation
 

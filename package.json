@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/stomt/stomt-kirby-extension"
   },
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "kirby-plugin",
   "license": "MIT"
 }
