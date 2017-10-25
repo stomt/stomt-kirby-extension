@@ -1,4 +1,4 @@
-# Collect feedback from your website via STOMT
+# Collect feedback from your Kirby website via STOMT
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
